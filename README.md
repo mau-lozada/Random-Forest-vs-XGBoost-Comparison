@@ -48,7 +48,7 @@ Ideal para tareas de regresión complejas con datos de alta dimensionalidad.
 
 ## ☁️ Abrir en Google Colab  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Random-Forest-vs-XGBoost-Comparison/blob/main/RandomForest_XGBoost.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Random-Forest-vs-XGBoost-Comparison/blob/main/Random_Forest_vs_XGBoost.ipynb)
 
 ---
 ✍️ *Autor: Mauricio Lozada*  
