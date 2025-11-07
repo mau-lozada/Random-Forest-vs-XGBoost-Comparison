@@ -33,8 +33,8 @@ Se evaluaron los modelos usando las métricas **MSE** y **R²**:
 
 | Modelo | MSE | R² | Tiempo de predicción |
 |:-------|:----:|:--:|:--------------------:|
-| Random Forest | 0.2554 | 0.8051 | 0.1664 s |
-| XGBoost | **0.2226** | **0.8301** | **0.0090 s** |
+| Random Forest | 0.2554 | 0.8051 | 0.2115 s |
+| XGBoost | **0.2226** | **0.8301** | **0.0154 s** |
 
 ---
 
